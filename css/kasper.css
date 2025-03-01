@@ -555,6 +555,8 @@ flex-direction: column;
   width: 100%;
   margin: auto;
   position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .video video {
